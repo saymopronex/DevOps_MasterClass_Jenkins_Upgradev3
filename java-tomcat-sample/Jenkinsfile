@@ -15,5 +15,4 @@ pipeline {
             build job: Deploy_Application_Staging_Env'
             }
         }
-    }
 }
